@@ -1,0 +1,6 @@
+{
+  "databaseURL": "https://David-Okoth-s-workspace-tc9h0v.us-east-1.xata.sh/db/Simple_CRUD_Database",
+  "codegen": {
+    "output": "src/xata.ts"
+  }
+}

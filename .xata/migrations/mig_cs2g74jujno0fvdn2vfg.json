@@ -1,0 +1,20 @@
+{
+  "done": true,
+  "migration": {
+    "name": "mig_cs2g74jujno0fvdn2vfg",
+    "operations": [
+      {
+        "alter_column": {
+          "name": "userName",
+          "table": "users",
+          "column": "name"
+        }
+      }
+    ]
+  },
+  "migrationType": "pgroll",
+  "name": "mig_cs2g74jujno0fvdn2vfg",
+  "parent": "mig_cs2g343ujno0fvdn2v70",
+  "schema": "public",
+  "startedAt": "2024-10-08T10:04:03.333626Z"
+}
