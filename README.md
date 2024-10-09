@@ -71,19 +71,23 @@ Follow the steps below to set up and run the API on your local machine:
 
 ## Screenshots
 
-### 1. Fetch All Users
+### 1. Fetch All Users(GET)
+![get_method](https://github.com/user-attachments/assets/de7df9f4-7b96-4f60-b658-45ece9203c25)
+
+### 2. Create a New User(POST)
+![post_method](https://github.com/user-attachments/assets/37d205cd-e2ca-4051-8086-a8de061f650d)
 
 
-### 2. Create a New User
+### 3. Update a User(PUT)
+![put_method](https://github.com/user-attachments/assets/2516ac85-ea56-4b67-bd51-46bff710ac9d)
 
 
-### 3. Fetch a Specific User
+### 4. Update a User(PATCH)
+![patch_method](https://github.com/user-attachments/assets/07ffcf81-0352-47c4-9425-25b3d9301078)
 
 
-### 4. Update a User
-
-
-### 5. Delete a User
+### 5. Delete a User(DELETE)
+![delete_mehtod](https://github.com/user-attachments/assets/748dd31c-72bd-4e83-a063-6ba16af59c92)
 
 
 
